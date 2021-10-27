@@ -1,5 +1,5 @@
 """
-Simple API
+Simple Flask API
 Copyright: Juan Antonio Gil Chamorro (M4luk0)
 """
 
