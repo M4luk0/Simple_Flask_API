@@ -45,3 +45,7 @@ def admin():
         return "Admin!", 200
     else:
         return "Unauthorized", 403
+
+
+if __name__ == "__main__":
+    app.run()
