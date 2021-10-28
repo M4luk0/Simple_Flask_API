@@ -10,5 +10,5 @@ $ git clone https://github.com/M4luk0/Simple_Flask_API.git
 $ cd Simple_Flask_API
 
 # execute
-$ flask run
+$ python3 simple_flask_api.py
 ```
